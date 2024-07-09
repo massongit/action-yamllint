@@ -12,6 +12,7 @@ jobs:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-check
           yamllint_flags: "testdata/"
+          filter_mode: nofilter
       - name: yamllint-github-check
         uses: ./
         with:
