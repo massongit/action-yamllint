@@ -1,4 +1,4 @@
-# GitHub Action: Run yamllint with reviewdog
+# GitHub Action: Run yamllint with reviewdogggg
 
 [![Docker Image CI](https://github.com/reviewdog/action-yamllint/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/reviewdog/action-yamllint/actions)
 [![Release](https://img.shields.io/github/release/reviewdog/action-yamllint.svg?maxAge=43200)](https://github.com/reviewdog/action-yamllint/releases)
